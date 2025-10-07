@@ -4,6 +4,7 @@ public class CoderCafe {
     public static void main(String args[]) {
         System.out.println("*************************************************");
        //here are some drinks prices
+        // test commit
         double iceMatcha =4.50; //matcha for the goats
         double iceLatte =5.30; //ice latte for the baddie
         double Cappuccino = 3.75; // coffee
